@@ -3,6 +3,4 @@
 
 
 1. Definição dos arquivos de uma Aplicação WEB
-2. Criação de um arquivo YML com as definições de um servidor Apache (httpd)
-   - Especificação no arquivo YML do local onde os arquivos da aplicação estarão
-
+2. Criação de um arquivo YML com as definições de um servidor Apache (httpd) e especificando o local onde os arquivos da aplicação estão localizados
